@@ -1,0 +1,6 @@
+C:\Users\hello\OneDrive\Desktop\KD-2\KD-2\Release\KD-2.vcxproj.AssemblyReference.cache
+C:\Users\hello\OneDrive\Desktop\KD-2\KD-2\Release\KD2.MyForm.resources
+C:\Users\hello\OneDrive\Desktop\KD-2\KD-2\Release\KD-2.vcxproj.GenerateResource.cache
+C:\Users\hello\OneDrive\Desktop\KD-2-tinklo-padejejas\KD-2\Release\KD-2.vcxproj.AssemblyReference.cache
+C:\Users\hello\OneDrive\Desktop\KD-2-tinklo-padejejas\KD-2\Release\KD2.MyForm.resources
+C:\Users\hello\OneDrive\Desktop\KD-2-tinklo-padejejas\KD-2\Release\KD-2.vcxproj.GenerateResource.cache

@@ -1,0 +1,3 @@
+C:\Users\hello\OneDrive\Desktop\KD-2\KD-2\Debug\KD-2.vcxproj.AssemblyReference.cache
+C:\Users\hello\OneDrive\Desktop\KD-2\KD-2\Debug\KD2.MyForm.resources
+C:\Users\hello\OneDrive\Desktop\KD-2\KD-2\Debug\KD-2.vcxproj.GenerateResource.cache
